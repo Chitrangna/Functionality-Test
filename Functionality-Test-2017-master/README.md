@@ -1,16 +1,9 @@
 # Functionality-Test-2017
 Functionality Tests on the flight hardware
 
-When you create a new atmel studio project ensure that you name the project properly. 
+OBC and Power board codes are written without interrupt presently. 
+With interrupt ones will be uploaded soon. 
 
-{board names} {peripherals} FT2017 {Name}
-
-like
-
-OBCm-OBCs-Power--GPS--FT2017--Aniruddha {m for master and s for slave}  
-
-OBCm--FT2017--Aniruddha   {m for master}
-
-See how codes till now are written. Ensure spacings.   
+PS. remember to detach programmer after programming while running a code.    
 
 Also make sure you create c executable project in atmel studio 
